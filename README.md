@@ -2,7 +2,7 @@
 
 This repo builds on the [r binder](https://github.com/binder-examples/r) and [jupyter lab binder](https://github.com/binder-examples/jupyterlab) and is complementary to the [multi-language-demo binder](https://github.com/binder-examples/multi-language-demo) with examples on using both R and python in both Jupyter Lab and RStudio.
 
- - Launch in Jupyter Lab: https://hub-binder.mybinder.ovh/user/binder-examples-r_with_python-d11zvcap/lab/tree/r_with_python/phython_lm_assignment.ipynb
+ - Launch in Jupyter Lab: https://hub-binder.mybinder.ovh/user/binder-examples-r_with_python-d11zvcap/lab
 
 Example files included:
 
